@@ -34,7 +34,7 @@ If you want to get started with React:
     -   [Code Components](#code-components) 🆕
     -   [Tools](#tools) 🆕
 
--   [Meetups](#communities-meetups-and-more)
+-   [other Lists Communities Meetups & more](#other-lists-communities-meetups-and-more)
 
 ## Courses
 
@@ -109,6 +109,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 ### Framer X Articles
 
+-   [How to use real data in Framer X](https://medium.com/@PavelLaptev/use-real-data-in-framer-x-3801834e3f59)
 -   [Framer X Beta overview and examples](https://medium.com/@PavelLaptev/framer-x-beta-overview-and-examples-58dba80a6865) - A comprehensive guide of everything you need to know about Framer X from setting up the code editor, debuging with the inspector, some basics about React, how a code component structure looks like, setting up external NPM modules, using Styled Components on a code component and more. Article by [Pavel Laptev](https://twitter.com/DarioGraphics).
 -   [Setting Props in Framer X](https://medium.com/@steveruiz/setting-props-in-framer-x-209dba59f606) - This is a super handy, four-part article about Props in React, in Framer X, how to set Property Controls on your own code component and which Property Control Types are available on Framer X Beta 3 by Product Designer, [Steve Ruiz](https://twitter.com/steveruizok).
 -   [How to create a simple prototype with Code Overrides in Framer X](https://medium.com/@benjaminnathan/how-to-create-a-simple-prototype-with-code-overrides-in-framer-x-4ab14a4b329d) - A thorough guide to code overrides, one of the new features of Framer X Beta 2 by Framer Designer, [Benjamin den Boer](https://twitter.com/benjaminnathan).
@@ -145,3 +146,5 @@ Framer X will not have a code editor. Good news is that you can install and cust
 -   [Spectrum.chat/react](https://spectrum.chat/react) - A community of developers, designers and others who love React.js.
 -   [Framer X Slack Channel](https://framer.slack.com/app_redirect?channel=framer-x) - Share your work, questions or resources here!
 -   [Framer React Slack Channel](https://framer.slack.com/app_redirect?channel=react) - If you have questions, resources or just want to share something, join us!
+
+-   [Facebook Framer group](https://www.facebook.com/groups/framerjs/)
